@@ -1,0 +1,10 @@
+* The first step is to look at the dataset and get the clear picture of what the data consisting of ?
+
+* The second step import the data to POWER BI and then transform the data because we need to make the changes to the dataset as we needed.
+
+* The third step transform the data in the dataset provided 
+	1) Remove the null column like browser, os and etc that is found in the dataset i provided.
+	2) Before their are some dates that are not actually correct then correct to by replacing the error.
+	3) There are some of the column that are having other option we need to split it based on '(' or ':' and then delete the row.
+	4) And then split the column of salary range to the value and then convert it into the number 
+	5) Find the average of the 
